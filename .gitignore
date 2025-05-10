@@ -1,0 +1,124 @@
+# Build directories
+build/
+_build/
+cmake-build-*/
+install/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# IDE-specific files
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python-specific files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+venv/
+ENV/
+
+# Java-specific files
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+.classpath
+.project
+.settings/
+target/
+*.log
+
+# CUDA specific
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# JNI generated files
+*.h.gch
+
+# Temporary files
+tmp/
+temp/
+
+# Conda environment
+.conda/
+
+# Documentation
+docs/_build/
+doxygen/
